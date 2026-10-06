@@ -1,0 +1,7 @@
+﻿,MAE,MAE,MAE,error_rel_%,error_rel_%,error_rel_%
+tipo,Hospital,SAPU,SAR,Hospital,SAPU,SAR
+modelo,,,,,,
+Última semana (naive),89.6,52.2,63.8,5.7,8.4,6.5
+Media móvil 4 semanas,97.9,61.2,65.1,6.2,9.9,6.6
+Naive estacional (t−52),168.2,91.4,90.5,10.7,14.8,9.2
+Media del bloque (dummy),161.0,95.5,120.1,10.2,15.4,12.2

@@ -1,0 +1,5 @@
+﻿modelo,MAE_mean,MAE_std,RMSE_mean,RMSE_std,error_rel_%_mean,error_rel_%_std
+Última semana (naive),62.4,5.6,85.6,13.5,6.9,0.9
+Media móvil 4 semanas,68.3,5.6,94.3,12.9,7.6,1.3
+Naive estacional (t−52),102.9,21.6,138.1,26.8,11.4,2.7
+Media del bloque (dummy),115.0,23.4,151.3,23.3,12.9,3.6

@@ -1,0 +1,17 @@
+﻿Chequeo,2023,2024,2025,Tratamiento en el pipeline
+"Duplicados (establecimiento, fecha, causa)",0,0,0,Nada que eliminar
+Causas por establecimiento-día,40–40,40–40,40–41,Grilla completa de causas cuando el día existe
+Establecimiento-días sin fila (n.º establecimientos),21 (6),6 (3),1 (1),No se imputa; se registran días reportados por semana
+Días con objetivo (IdCausa 1) = 0,11,12,9,Se listan en el anexo de anomalías
+Filas con suma de bandas ≠ Total,0,0,0,Bandas etarias consistentes
+Negativos o NaN en Total/bandas,0,0,0,—
+"% días id 2 = suma ids 3,4,5,6,10,11",100.0 %,100.0 %,100.0 %,id 2 es subtotal: no sumar con sus componentes
+% días id 12 = suma ids 13–17,100.0 %,100.0 %,100.0 %,id 12 es subtotal: no sumar con sus componentes
+"% días id 1 = suma ids 2,12,18,21",6.2 %,4.8 %,3.4 %,La jerarquía no cierra: preguntar a profesores / DEIS
+id 34 − id 1: media; mín.; máx.,7.8; -244; 309,8.7; -233; 348,9.5; -95; 141,id 34 ≠ id 1: confirmar cuál es la demanda total
+CodigoComuna vacío (país),0,7.720,0,Filas sin comuna no entran al filtro
+Cambio de código de establecimiento,,,,SAR Los Cerros: 19-912 (2023) → 201018; se unifican
+Nombres con distinta escritura entre años,,,,Se usa el nombre más reciente por código
+Semanas parciales en los bordes,,,,Se descartan (solo semanas lunes–domingo completas)
+IdEstablecimiento con tipos mixtos,,,,Se lee como texto
+Codificación del archivo,,,,latin-1 (no UTF-8)

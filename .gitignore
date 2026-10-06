@@ -1,2 +1,10 @@
+# Datos crudos del DEIS (zips de 40-140 MB y CSV de 1,6 GB): no caben en GitHub.
+# Se versionan solo el manifiesto (data/raw/README.md) y el diccionario de datos.
 *.zip
-AtencionesUrgencia2024/
+data/raw/*
+!data/raw/README.md
+!data/raw/diccionario-de-datos-atencionesurgencia.xlsx
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/

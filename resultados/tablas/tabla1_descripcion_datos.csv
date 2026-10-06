@@ -1,0 +1,11 @@
+﻿Ítem,2023,2024,2025,2026,Común a todos los años
+Filas (país),8.899.080,8.973.229,9.142.479,7.092.918,
+Filas (Gran Concepción),378.760,380.400,380.010,294.462,
+Período,01-01-2023 a 31-12-2023,01-01-2024 a 31-12-2024,01-01-2025 a 31-12-2025,01-01-2026 a 04-10-2026,
+Días,365,366,365,277,
+Establecimientos,26,26,26,27,
+Por tipo,"SAPU 12, SAR 10, Hospital 4","SAPU 12, SAR 10, Hospital 4","SAPU 12, SAR 10, Hospital 4","SAPU 13, SAR 10, Hospital 4",
+Causas (IdCausa),40,40,41,41,
+Uso,Análisis y validación,Análisis y validación,Análisis y validación,Test (reservado),
+Unidad de observación,Establecimiento × día × causa,Establecimiento × día × causa,Establecimiento × día × causa,Establecimiento × día × causa,
+Variables principales,,,,,"Total (atenciones) y 5 bandas etarias; fecha; establecimiento, tipo, comuna; IdCausa/GlosaCausa"
